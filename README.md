@@ -37,6 +37,7 @@
 - Cross-view panorama image synthesis TMM 2022. 
 - Sat2vid: Street-view panoramic video synthesis from a single satellite image. ICCV 2021.
 - Coming down to earth: Satellite-to-street view synthesis for geo-localization. CVPR 2021.
+- Cascaded cross mlp-mixer gans for cross-view image translation. BMVC 2021. 
 - Geometry-aware satellite-to-ground image synthesis for urban areas. CVPR 2020
 - Synthesis and Completion of Facades from Satellite Imagery. ECCV 2020
 - Cross-view image synthesis using geometry-guided conditional gans. CVIU 2019.
