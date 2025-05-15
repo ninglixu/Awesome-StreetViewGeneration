@@ -24,6 +24,7 @@
 - CrossViewDiff: A Cross-View Diffusion Model for Satellite-to-Ground Image Synthesis. ICANN 2024
 - Geospecific View Generation Geometry-Context Aware High-Resolution Ground View Inference from Satellite Views. ECCV 2024.
 - Sat2scene: 3d urban scene generation from satellite images with diffusion. CVPR 2024
+- Bird’s-Eye View to Street-View: A Survey. arxiv 2024
 
 ## 2023
 - Bevcontrol: Accurately controlling street-view elements with multi-perspective consistency via bev sketch layout. 
