@@ -45,8 +45,9 @@
 - Panorama Generation Based on Aerial Images. ICMEW 2018
 - Predicting ground-level scene layout from aerial imagery. CVPR 2017
 
-  ## Review & Survey
-  - Bird’s-Eye View to Street-View: A Survey. arXiv 2024
-  - Advances in 3D Generation: A Survey. arXiv 2024.
-  - Image Generation: A Review. NPL 2022.
-  - A review on Generative Adversarial Networks for image generation. Computer & Graphics 2022.
+
+## Review & Survey
+- Bird’s-Eye View to Street-View: A Survey. arXiv 2024
+- Advances in 3D Generation: A Survey. arXiv 2024.
+- Image Generation: A Review. NPL 2022.
+- A review on Generative Adversarial Networks for image generation. Computer & Graphics 2022.
