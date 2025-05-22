@@ -52,4 +52,6 @@
 - Image Generation: A Review. NPL 2022.
 - A review on Generative Adversarial Networks for image generation. Computer & Graphics 2022.
 - Nerf: Neural radiance field in 3d vision, a comprehensive review. arXiv 2022.
+- Advances in neural rendering. In Computer Graphics Forum (2022)
 - A Survey of Image Synthesis Methods for Visual Machine Learning. CGF 2020.
+- State of the art on neural rendering. In Computer Graphics Forum (2020).
