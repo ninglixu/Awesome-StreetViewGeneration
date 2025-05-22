@@ -49,6 +49,7 @@
 ## Review & Survey
 - Bird’s-Eye View to Street-View: A Survey. arXiv 2024
 - Advances in 3D Generation: A Survey. arXiv 2024.
+- Diffusion models in vision: A survey. TPAMI. 2023
 - Image Generation: A Review. NPL 2022.
 - A review on Generative Adversarial Networks for image generation. Computer & Graphics 2022.
 - Nerf: Neural radiance field in 3d vision, a comprehensive review. arXiv 2022.
