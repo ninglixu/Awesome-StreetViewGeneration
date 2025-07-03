@@ -43,6 +43,7 @@
 - Cross-view image synthesis using geometry-guided conditional gans. CVIU 2019.
 - Cross-view image synthesis using conditional gans. CVPR 2018
 - Panorama Generation Based on Aerial Images. ICMEW 2018
+- What Is It Like Down There? Generating Dense Ground-Level Views and Image Features From Overhead Imagery Using Conditional Generative Adversarial Networks. SIGSPATIAL 2018.
 - Predicting ground-level scene layout from aerial imagery. CVPR 2017
 
 
