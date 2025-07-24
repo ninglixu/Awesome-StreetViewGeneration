@@ -63,28 +63,75 @@
 
 
 # Cross-view localization
-## Cross-view-Localization (2DoF)
+## 2025
+- DSTG: Distillation Swin Transformer for Cross-View Geolocalization. TGARS 2025.
+- MCFA: Multi-Scale Cascade and Feature Adaptive Alignment Network for Cross-View Geo-Localization. Sensors 2025.
+- A Novel EAGLe Framework for Robust UAV-View Geo-Localization. TGARS 2025
+- Large-Scale Geo-Localization of Remote Sensing Images: A Three-Stage Framework Leveraging Maximal Clique Theory. TGARS 2025.
+- GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization. arxiv 2025
+- 
+## 2024
+- View from above: Orthogonal-view aware cross-view localization. CVPR 2024
+- Cross-View Geo-Localization: A Survey. IEEE Acess 2024.
+- Unleashing unlabeled data: A paradigm for cross-view geo-localization. CVPR 2024.
+- TransFG: A Cross-View Geo-Localization of Satellite and UAVs Imagery Pipeline Using Transformer-Based Feature Aggregation and Gradient Guidance. TGARS. 2024
+- Learning Cross-View Geo-Localization Embeddings via Dynamic Weighted Decorrelation Regularization. TGARS 2024.
+- (dataset) 360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries. CVPR 2024.
+- GeoDTR+: Toward Generic Cross-View Geolocalization via Geometric Disentanglement. TPAMI 2024
+- (dataset) UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization. arxiv 2024.
+- SDPL: Shifting-Dense Partition Learning for UAV-View Geo-Localization. TCSVT 2024.
+- Multiple-environment Self-adaptive Network for aerial-view geo-localization. PR 2024.
+- Localization Is All You Evaluate: Data Leakage in Online Mapping Datasets and How to Fix It. CVPR 2024
+- (dataset) UAV-GeoLoc: A Large-vocabulary Dataset and Geometry-Transformed Method for UAV Geo-Localization. RAL 2024
 
+## 2023
+- Image and Object Geo-Localization. IJCV 2023
+- Cross-view image sequence geo-localization. WACV 2023
+- GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization NIPS 2023.
+- 
+## 2022
+- Beyond Cross-View Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image. CVPR 2022
 - TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization. 2022 CVPR
 - Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval. 2022 TMM.
 - It’s Okay to Be Wrong: Cross-view Geo-localization with Step-Adaptive Iterative Refinement 2022. TGARS
 - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery. 2022 MM
-- Video geo-localization employing geo-temporal feature learning and gps trajectory smoothing. 2021. CVPR (Video geolocalization)
-- Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching. 2020. CVPR
-- Bridging the Domain Gap for Ground-to-Aerial Image Matching。 2020 CVPR (GANs)
-- Optimal Feature Transport for Cross-View Image Geo-Localization. 2020 AAAI.
-- Image-Based Geo-Localization Using Satellite Imagery. IJCV 2020.
-- Vision based robot localization by ground to satellite matching in GPS-denied situations. 2014. Robot (warp panaroma to top-down view image)
-- Vehicle Ego-Localization by Matching In-Vehicle Camera Images to an Aerial Image. 2011 ACCV.(warp perspective image to top-down view image)
-- Geo-Localization of Street Views with Aerial Image Databases. 2011 MM. (facade matching)
+- Joint representation learning and keypoint detection for cross-view geo-localization. TIP 2022.
+- 
 
-## Camera Localization (6DoF)
+## 2021
+- Video geo-localization employing geo-temporal feature learning and gps trajectory smoothing. 2021. CVPR (Video geolocalization)
+- Cross-view geo-localization with layer-to-layer transformer. NIPS 2021.
 - DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors. CVPR 2021.
 - Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments. 2021 CVPR
 - Back to the Feature: Learning Robust Camera Localization from Pixels to Pose. 2021 CVPR
 - DeepI2P: Image-to-Point Cloud Registration via Deep Classification. 2021 CVPR
 - P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching. 2021 ICCV
+- Vigor: Cross-view image geo-localization beyond one-to-one retrieval. CVPR 2021.
+- UAV-satellite view synthesis for cross-view geo-localization. TVCSVT 2021
+- Each part matters: Local patterns facilitate cross-view geo-localization TCVST 2021.
+- A Transformer-Based Feature Segmentation and Region Alignment Method for UAV-View Geo-Localization. TCSVT 2021.
+- 
+
+## 2020
+- Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching. 2020. CVPR
 - Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences. 2020. IROS
+- Bridging the Domain Gap for Ground-to-Aerial Image Matching。 2020 CVPR (GANs)
+- Optimal Feature Transport for Cross-View Image Geo-Localization. 2020 AAAI.
+- Image-Based Geo-Localization Using Satellite Imagery. IJCV 2020.
+
+## 2019 and before
+- Spatial-aware feature aggregation for image based cross-view geo-localization. NIPS 2019
 - 2D3D-MatchNet: Learning to Match Keypoints Across 2D Image and 3D Point Cloud. 2019 ICRA.
+- Cvm-net: Cross-view matching network for image-based ground-to-aerial geo-localization. CVPR 2018.
 - Robust upright adjustment of 360 spherical panoramas. 2017. CVPR
+- Vision based robot localization by ground to satellite matching in GPS-denied situations. 2014. Robot (warp panaroma to top-down view image)
+- Vehicle Ego-Localization by Matching In-Vehicle Camera Images to an Aerial Image. 2011 ACCV.(warp perspective image to top-down view image)
+- Geo-Localization of Street Views with Aerial Image Databases. 2011 MM. (facade matching)
+
+
+
+
+
+
+
 
