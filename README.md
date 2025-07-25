@@ -76,7 +76,6 @@
 - Unleashing unlabeled data: A paradigm for cross-view geo-localization. CVPR 2024.
 - TransFG: A Cross-View Geo-Localization of Satellite and UAVs Imagery Pipeline Using Transformer-Based Feature Aggregation and Gradient Guidance. TGARS. 2024
 - Learning Cross-View Geo-Localization Embeddings via Dynamic Weighted Decorrelation Regularization. TGARS 2024.
-- (dataset) 360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries. CVPR 2024.
 - GeoDTR+: Toward Generic Cross-View Geolocalization via Geometric Disentanglement. TPAMI 2024
 - (dataset) UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization. arxiv 2024.
 - SDPL: Shifting-Dense Partition Learning for UAV-View Geo-Localization. TCSVT 2024.
