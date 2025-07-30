@@ -69,10 +69,14 @@
 - A Novel EAGLe Framework for Robust UAV-View Geo-Localization. TGARS 2025
 - Large-Scale Geo-Localization of Remote Sensing Images: A Three-Stage Framework Leveraging Maximal Clique Theory. TGARS 2025.
 - GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization. arxiv 2025
+- CV-Cities: Advancing Cross-View Geo-Localization in Global Cities. Selected Topics 2025.
 - 
 ## 2024
 - View from above: Orthogonal-view aware cross-view localization. CVPR 2024
+- CAMP: A Cross-View Geo-Localization Method Using Contrastive Attributes Mining and Position-Aware Partitioning TGARS 2024.
+- A coarse-to-fine visual geo-localization method for GNSS-denied UAV with oblique-view imagery ISPRS 2024
 - Cross-View Geo-Localization: A Survey. IEEE Acess 2024.
+- Enhancing Cross-View Geo-Localization With Domain Alignment and Scene Consistency TCVST 2024
 - Unleashing unlabeled data: A paradigm for cross-view geo-localization. CVPR 2024.
 - TransFG: A Cross-View Geo-Localization of Satellite and UAVs Imagery Pipeline Using Transformer-Based Feature Aggregation and Gradient Guidance. TGARS. 2024
 - Learning Cross-View Geo-Localization Embeddings via Dynamic Weighted Decorrelation Regularization. TGARS 2024.
@@ -87,6 +91,7 @@
 - Image and Object Geo-Localization. IJCV 2023
 - Cross-view image sequence geo-localization. WACV 2023
 - GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization NIPS 2023.
+- Sample4Geo: Hard Negative Sampling For Cross-View Geo-Localisation. arxiv 2023.
 - 
 ## 2022
 - Beyond Cross-View Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image. CVPR 2022
@@ -120,10 +125,12 @@
 
 ## 2019 and before
 - Spatial-aware feature aggregation for image based cross-view geo-localization. NIPS 2019
+- Ground-to-aerial image geo-localization with a hard exemplar reweighting triplet loss. ICCV 2019.
 - 2D3D-MatchNet: Learning to Match Keypoints Across 2D Image and 3D Point Cloud. 2019 ICRA.
 - Cvm-net: Cross-view matching network for image-based ground-to-aerial geo-localization. CVPR 2018.
 - Robust upright adjustment of 360 spherical panoramas. 2017. CVPR
 - Vision based robot localization by ground to satellite matching in GPS-denied situations. 2014. Robot (warp panaroma to top-down view image)
+- Cross-view image geolocalization. CVPR 2013
 - Vehicle Ego-Localization by Matching In-Vehicle Camera Images to an Aerial Image. 2011 ACCV.(warp perspective image to top-down view image)
 - Geo-Localization of Street Views with Aerial Image Databases. 2011 MM. (facade matching)
 
