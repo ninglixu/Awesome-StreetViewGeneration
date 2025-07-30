@@ -107,11 +107,6 @@
 ## 2021
 - Video geo-localization employing geo-temporal feature learning and gps trajectory smoothing. 2021. CVPR (Video geolocalization)
 - Cross-view geo-localization with layer-to-layer transformer. NIPS 2021.
-- DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors. CVPR 2021.
-- Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments. 2021 CVPR
-- Back to the Feature: Learning Robust Camera Localization from Pixels to Pose. 2021 CVPR
-- DeepI2P: Image-to-Point Cloud Registration via Deep Classification. 2021 CVPR
-- P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching. 2021 ICCV
 - Vigor: Cross-view image geo-localization beyond one-to-one retrieval. CVPR 2021.
 - UAV-satellite view synthesis for cross-view geo-localization. TVCSVT 2021
 - Each part matters: Local patterns facilitate cross-view geo-localization TCVST 2021.
@@ -123,7 +118,6 @@
 - Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences. 2020. IROS
 - Bridging the Domain Gap for Ground-to-Aerial Image Matching。 2020 CVPR (GANs)
 - Optimal Feature Transport for Cross-View Image Geo-Localization. 2020 AAAI.
-- Image-Based Geo-Localization Using Satellite Imagery. IJCV 2020.
 
 ## 2019 and before
 - Spatial-aware feature aggregation for image based cross-view geo-localization. NIPS 2019
