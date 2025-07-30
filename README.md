@@ -102,7 +102,6 @@
 - It’s Okay to Be Wrong: Cross-view Geo-localization with Step-Adaptive Iterative Refinement 2022. TGARS
 - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery. 2022 MM
 - Joint representation learning and keypoint detection for cross-view geo-localization. TIP 2022.
-- 
 
 ## 2021
 - Video geo-localization employing geo-temporal feature learning and gps trajectory smoothing. 2021. CVPR (Video geolocalization)
@@ -115,14 +114,12 @@
 
 ## 2020
 - Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching. 2020. CVPR
-- Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences. 2020. IROS
 - Bridging the Domain Gap for Ground-to-Aerial Image Matching。 2020 CVPR (GANs)
 - Optimal Feature Transport for Cross-View Image Geo-Localization. 2020 AAAI.
 
 ## 2019 and before
 - Spatial-aware feature aggregation for image based cross-view geo-localization. NIPS 2019
 - Ground-to-aerial image geo-localization with a hard exemplar reweighting triplet loss. ICCV 2019.
-- 2D3D-MatchNet: Learning to Match Keypoints Across 2D Image and 3D Point Cloud. 2019 ICRA.
 - Cvm-net: Cross-view matching network for image-based ground-to-aerial geo-localization. CVPR 2018.
 - Robust upright adjustment of 360 spherical panoramas. 2017. CVPR
 - Vision based robot localization by ground to satellite matching in GPS-denied situations. 2014. Robot (warp panaroma to top-down view image)
