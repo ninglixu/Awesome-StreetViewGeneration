@@ -70,7 +70,9 @@
 - Large-Scale Geo-Localization of Remote Sensing Images: A Three-Stage Framework Leveraging Maximal Clique Theory. TGARS 2025.
 - GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization. arxiv 2025
 - CV-Cities: Advancing Cross-View Geo-Localization in Global Cities. Selected Topics 2025.
-- 
+- Cross-view geo-localization with panoramic street-view and VHR satellite imagery in decentrality settings. ISPRS 2025.
+
+
 ## 2024
 - View from above: Orthogonal-view aware cross-view localization. CVPR 2024
 - CAMP: A Cross-View Geo-Localization Method Using Contrastive Attributes Mining and Position-Aware Partitioning TGARS 2024.
