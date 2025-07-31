@@ -18,6 +18,7 @@
 - Magicdrive: Street view generation with diverse 3d geometry control. ICLR 2024.
 - Street-view image generation from a bird's-eye view layout. ICRA 2024. 
 - Bird's-Eye View to Street-View: A Survey. arxiv 2024.
+- Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network. ECCV 2024.
 - Crossviewdiff: A cross-view diffusion model for satellite-to-street view synthesis. 2024
 - From Bird’s-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model. ICRA 2024.
 - Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis. arxiv 2024.
@@ -32,6 +33,7 @@
 - Cvsformer: Cross-view synthesis transformer for semantic scene completion. ICCV 2023.
 - Cross-View Image Synthesis From a Single Image With Progressive Parallel GAN. TGARS 2023
 - Sat2density: Faithful density learning from satellite-ground image pairs. ICCV 2023
+- fine-grained cross-view geo-localization using a correlation-aware homography estimator. NIPS 2023.
 
 ## 2022 and before
 - Geometry-guided street-view panorama synthesis from satellite imagery. PAMI 2022
